@@ -6,7 +6,7 @@ import {
   LOGIN_PAGE_LINK,
   RETURN_TO_HOME_PAGE_LINK,
   SIGNUP_PAGE_LINK,
-} from "../services/domService.js";
+} from "./services/domService.js";
 import { onChangePage } from "./router.js";
 /********* האזנה לאירועים **********/
 
